@@ -6,7 +6,7 @@ This project integrates antenna design and ray-tracing simulations using FEKO an
 Designed antennas for 300 GHz and 130 GHz frequencies in CADFEKO.
 Parameters:
 300 GHz Antenna: WR3 waveguide with a custom-designed flare.
-130 GHz Antenna: WR7 waveguide with square horn dimensions.
+130 GHz Antenna: WR7 waveguide with square horn dimensions.  
 Simulated radiation patterns in POSTFEKO, generating 2D polar plots and 3D gain patterns.
 Explored gain efficiency and effective area optimizations for high-frequency antennas.
 2. Ray-Tracing Simulation
